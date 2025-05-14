@@ -1,4 +1,4 @@
-# k8s-kind-voting-app
+
 A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS EC2 instance, installing and configuring Argo CD, and deploying applications using Argo CD.
 
 <h1>Overview</h1>
@@ -19,9 +19,10 @@ This guide covers the steps to:
 
 
 <h1>Observability</h1>
-![grafana](https://github.com/user-attachments/assets/909bb438-67cc-4ff2-974d-41d0ac0a2bc3)
-![prometheus](https://github.com/user-attachments/assets/10e2847a-e14a-4331-84e6-542527eea341)
 
+![grafana](https://github.com/user-attachments/assets/d33a47c8-a2ab-420f-8f46-6f6c450ca881)
+
+![prometheus](https://github.com/user-attachments/assets/0f0b30e9-25c4-43c6-af32-9df7f2999c3a)
 
 
 <ul>

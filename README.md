@@ -14,12 +14,14 @@ This guide covers the steps to:
 </ul>
 
 <h1>Architecture</h1>
-![k8s-kind-voting-app](https://github.com/user-attachments/assets/1eb7525f-30f4-478e-adbf-7c3c784d1fb7)
+
+![k8s-kind-voting-app](https://github.com/user-attachments/assets/abad637e-c59a-4e6f-8638-30258278e1a3)
 
 
 <h1>Observability</h1>
-![prometheus](https://github.com/user-attachments/assets/fdae01d9-a42a-482a-97a3-c6ea6c3c1f0e)
-![grafana](https://github.com/user-attachments/assets/f304ac87-e8d3-4bf5-acd7-6e8bd98757ba)
+![grafana](https://github.com/user-attachments/assets/909bb438-67cc-4ff2-974d-41d0ac0a2bc3)
+![prometheus](https://github.com/user-attachments/assets/10e2847a-e14a-4331-84e6-542527eea341)
+
 
 
 <ul>

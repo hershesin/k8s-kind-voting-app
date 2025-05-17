@@ -1,4 +1,4 @@
-#**Kind Voting App**
+<h1>****Kind Voting App****</h1>
 A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS EC2 instance, installing and configuring Argo CD, and deploying applications using Argo CD.
 
 <h1>Overview</h1>
